@@ -2,4 +2,7 @@
 este es mi primer repositorio git
 
 ## este es un test segundo commit
-Soy santi y mellamo santiago, me dicen santi o santiago depnde la persona o eso ja ja ja jijijij
+Soy santi y mellamo santiago villalba
+
+### Este es un titulo creado en la rama develop
+En develop creamos un titulo 3
